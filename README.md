@@ -1,3 +1,4 @@
-# needle
+# ai code stuff
 
-This is my repo for https://dlsyscourse.org/.
+- https://dlsyscourse.org/
+- https://modernaicourse.org/
